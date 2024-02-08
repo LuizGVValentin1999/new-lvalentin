@@ -3,22 +3,22 @@
     {
       "name": "facebook",
       "icon": "FaFacebook",
-      "link": "https://www.facebook.com/"
+      "link": "https://www.facebook.com/people/Luiz-Gustavo-Valentin/pfbid034416caLUDuC8tmnAeZtk7DKGrLPqu3EP5Cr4PY1FyQhbSFBebK6SW8USwYKCpb8Jl/"
     },
     {
-      "name": "twitter",
-      "icon": "FaTwitter",
-      "link": "https://twitter.com/"
+      "name": "Instagram",
+      "icon": "FaInstagram",
+      "link": "https://www.instagram.com/gugaa.env/"
     },
     {
       "name": "github",
       "icon": "FaGithub",
-      "link": "https://www.github.com/"
+      "link": "https://github.com/LuizGVValentin1999"
     },
     {
       "name": "linkedin",
       "icon": "FaLinkedin",
-      "link": "https://www.linkedin.com/"
+      "link": "https://www.linkedin.com/in/luiz-valter-valentin1999/"
     }
   ]
 }

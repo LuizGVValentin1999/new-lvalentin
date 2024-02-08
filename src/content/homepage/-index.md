@@ -18,7 +18,7 @@ features:
     contentend: "Amo desafios e busco superar-me a cada dia para me tornar um Tech Lead mais capacitado."
     button:
       enable: false
-      label: "Get Started Now"
+      label: "batata"
       link: "#"
 
  
